@@ -83,7 +83,7 @@ Pic|Toolbar NAME=Pic STATE=tree,bottom LINE=4
 
 ---
 
-4 - Overview of Current Commamds (showalltoolbarcommand)
+4 - Overview of Current Commands (showalltoolbarcommand)
 
 ![A4 Settings](Images/A4.png)
 
@@ -100,6 +100,26 @@ STATE Options for Tree-Docked Toolbars:
 - STATE=tree,right — Docks vertically to the right of the tree panel
 
 ---
+
+🌿🎯 Example of a STATE=tree toolbar 🎯🌿
+
+
+
+![A3 Settings](Images/A3.png)
+
+
+---
+
+
+🌹🌿 The Green Line shows the Toolbar that follows the tree 🌿🌹
+
+
+
+![A5 Settings](Images/A5.png)
+
+
+---
+
 
 🔢 LINE Parameter
 - LINE=4 — Sets the order/position when multiple toolbars share the same docking area  
