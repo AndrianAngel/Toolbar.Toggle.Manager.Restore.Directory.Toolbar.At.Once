@@ -153,3 +153,16 @@ The script provides two commands:
 - Enable debug logging (DebugLevel = 1 or 2) to troubleshoot command execution
 
 ---
+
+🌿🌹 Watch The Demo 🌹🌿
+
+
+---
+
+
+![Restore.All.Toolbar.gif Settings](Images/Restore.All.Toolbar.gif)
+
+
+---
+
+
