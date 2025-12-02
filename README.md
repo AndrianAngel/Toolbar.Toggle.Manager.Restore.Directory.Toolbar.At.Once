@@ -61,6 +61,34 @@ Pic|Toolbar NAME=Pic STATE=tree,bottom LINE=4
 
 ---
 
+🌿 Setting & Result Demo 🌿
+
+---
+
+1 - Script Setting with my own Toolbar Configuration 
+
+![A Settings](Images/A.png)
+
+---
+
+2 - Add a key (Combination) for every Command
+
+![A1 Settings](Images/A1.png)
+
+---
+
+3 - My Actual Toolbar Position (Whole Visible Toolbar)
+
+![A2 Settings](Images/A2.png)
+
+---
+
+4 - Overview of Current Commamds (showalltoolbarcommand)
+
+![A4 Settings](Images/A4.png)
+
+---
+
 🌳 Understanding STATE=tree Toolbars
 When you use STATE=tree, the toolbar is docked to the folder tree panel rather than the main lister window. This makes it follow the tree panel wherever it goes.
 
